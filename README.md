@@ -11,8 +11,9 @@
    - Nama Sekolah  : SMK Telkom Malang
 
 ## C. Screenshoot
-  ![hasil 1] (https://s21.postimg.org/3wfe5eiiv/Untitled7.png) 
-  ![hasil 1] (https://s27.postimg.org/p4b0vjsqb/Untitled8.png)<br><br>
-  ![hasil 1] (https://s4.postimg.org/4yeez8we5/Untitled9.png)
-  ![hasil 1] (https://s10.postimg.org/fxvucbse1/Untitled10.png)
+  ![1.jpg](https://s27.postimg.org/varcw7cvn/image.png)
+  ![2.jpg](https://s22.postimg.org/tag3uuen5/image.png) <br><br>
+  ![3.jpg](https://s12.postimg.org/uq8f8k6m5/image.png)
+  ![4.jpg](https://s28.postimg.org/xjbbrhn59/image.png)<br><br>
+
   
